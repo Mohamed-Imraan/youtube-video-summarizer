@@ -11,7 +11,6 @@ This tool allows users to paste a YouTube video URL and quickly get a clear and 
 
 ---
 
-📸 Project Preview
 
 <a href="https://www.linkedin.com/posts/mohamed-imraan-full-stack-developer_ai-generativeai-python-activity-7446401545019244545-aHgX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFY3K0cBU_78C0iKCc_Q5cnqtXRuF44rzCg">
 <img width="1536" height="1024" alt="Youtube video summarizer image" src="https://github.com/user-attachments/assets/3ab2f619-f43b-4abb-a701-c42dd43637da" /></a>
@@ -35,6 +34,32 @@ This tool allows users to paste a YouTube video URL and quickly get a clear and 
 5. The summary is displayed in the Streamlit interface
 
 ---
+
+### 📸 Project Preview
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/user-attachments/assets/4aca1309-c384-4bbc-ab0a-52c7f3063eab" />
+Page preview of Youtube video summarizer✨ </td>
+  <td><img src="https://github.com/user-attachments/assets/7f5dbdb3-57a1-44a2-b4b3-0cbfa80da635"/>
+   ⚠️ This Error message shows if you not paste url
+</td>
+</tr>
+</table>
+
+### 🤖 Output Responses
+
+<table>
+<tr>
+  <td> <img src="https://github.com/user-attachments/assets/f4ab6a11-e667-4141-92a4-119141a56887"/> 
+During Output Generating 🔄️
+  </td>
+  <td> <img src="https://github.com/user-attachments/assets/5151aa4a-fdb3-4706-ba9e-9ba91be801ee">
+Output response during error 💭 </td>
+
+</table>
+
+---
 ## ⚙️ Tech Stack
 
 - **Python**
@@ -56,13 +81,12 @@ This tool allows users to paste a YouTube video URL and quickly get a clear and 
 
 ---
 
-📂 Project Structure
+### 📂 Project Structure
 
-youtube-video-summarizer
-│
-├── summarizer.py
-├── requirements.txt
-├── README.md
+ youtube-video-summarizer 🗂️<br>
+├── summarizer.py<br>
+├── requirements.txt<br>
+├── README.md<br>
 └── .env.example
 
 ---
@@ -95,7 +119,7 @@ GOOGLE_API_KEY=your_api_key_here
 
 ---
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This project uses the Google Gemini API to generate summaries.
 
