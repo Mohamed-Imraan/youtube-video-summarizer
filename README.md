@@ -1,5 +1,5 @@
 
-<h1 align="center"> YouTube Video Summarizer <img width="38" height="38" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/> 📝</h1>
+<h1 align="center"> YouTube Video Summarizer ✍🏻 </h1>
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Powered+by+Gemini+%7C+LangChain+%7C+Streamlit)](https://git.io/typing-svg)
@@ -95,7 +95,7 @@ Output response during error 💭 </td>
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/Mohamed-Imraan/youtube-video-summarizer.git
+git clone:  https://github.com/Mohamed-Imraan/youtube-video-summarizer.git
 
 ### 2️⃣ Navigate to the project folder
 
